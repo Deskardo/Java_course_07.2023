@@ -50,7 +50,7 @@ public class Answer6 {
 
         if (args.length == 0) {
             // При отправке кода на Выполнение, вы можете варьировать эти параметры
-            arr = new int[] { 9, 4, 8, 3, 1 };
+            arr = new int[] { 9, 4, 8, 3, 1 }; // 
         } else {
             arr = Arrays.stream(args[0].split(", "))
                     .mapToInt(Integer::parseInt)
