@@ -1,0 +1,40 @@
+2023-07-28 14:44 User entered the first operand = 3
+2023-07-28 14:44 User entered the operation = +
+2023-07-28 14:44 User entered the second operand = 7
+2023-07-28 14:44 Result is 10
+2023-08-06 10:37 User entered the first operand = 3
+2023-08-06 10:37 User entered the operation = +
+2023-08-06 10:37 User entered the second operand = 7
+2023-08-06 10:37 Result is 10
+2023-08-06 10:37 User entered the first operand = 4
+2023-08-06 10:37 User entered the operation = +
+2023-08-06 10:37 User entered the second operand = 7
+2023-08-06 10:37 Result is 11
+2023-08-06 10:37 User entered the first operand = 0
+2023-08-06 10:37 User entered the operation = <
+2023-08-06 10:37 User entered the second operand = 0
+2023-08-06 10:37 Result is 0
+2023-08-06 10:39 User entered the first operand = 3
+2023-08-06 10:39 User entered the operation = +
+2023-08-06 10:39 User entered the second operand = 7
+2023-08-06 10:39 Result is 10
+2023-08-06 10:39 User entered the first operand = 4
+2023-08-06 10:39 User entered the operation = +
+2023-08-06 10:39 User entered the second operand = 7
+2023-08-06 10:39 Result is 11
+2023-08-06 10:40 User entered the first operand = 3
+2023-08-06 10:40 User entered the operation = +
+2023-08-06 10:40 User entered the second operand = 7
+2023-08-06 10:40 Result is 10
+2023-08-06 10:40 User entered the first operand = 4
+2023-08-06 10:40 User entered the operation = +
+2023-08-06 10:40 User entered the second operand = 7
+2023-08-06 10:40 Result is 11
+2023-08-06 10:42 User entered the first operand = 3
+2023-08-06 10:42 User entered the operation = +
+2023-08-06 10:42 User entered the second operand = 7
+2023-08-06 10:42 Result is 10
+2023-08-06 10:42 User entered the first operand = 4
+2023-08-06 10:42 User entered the operation = +
+2023-08-06 10:42 User entered the second operand = 7
+2023-08-06 10:42 Result is 11
